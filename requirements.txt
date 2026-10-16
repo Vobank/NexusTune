@@ -1,0 +1,2 @@
+PySide6-Essentials>=6.6
+psutil>=5.9
